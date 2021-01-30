@@ -8,7 +8,7 @@ Running the code is very straight forward. All you need to do is navigate to the
 e.g. Linux: `$ python3 app.py`
 
 After this open up your browser and type in the url: *http://localhost:8080/discovery?lat=x&lon=y*
-wher x and y are the latitude and longitude coordinates where the user supposedly is.
+where x and y are the latitude and longitude coordinates where the user supposedly is.
 
 I'm sorry that there are no unit tests included, but below I have listed x and y values that should prove that the application works as intended.
 
